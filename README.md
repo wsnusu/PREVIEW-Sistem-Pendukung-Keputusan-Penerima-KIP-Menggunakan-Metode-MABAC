@@ -5,7 +5,7 @@
 **Preview**
 
 **Halaman Login**
-./GAMBAR/1.jpg
+../GAMBAR/1.jpg
 
 **Halaman Dashboard**
 ![image](https://github.com/wsnusu/SISTEM-PENDUKUNG-KEPUTUSAN-PENERIMA-KIP-K-MENGGUNAKAN-METODE-MABAC/assets/170957828/510a9230-9012-41ae-8143-4fb2c6d22468)
