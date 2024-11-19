@@ -2,31 +2,6 @@
 
 **Dev By Wisnu Suprapto**
 
-## Instructions
-
-### Generation Prompt
-1. Activate symbolic link for storage by running: 
-   ```
-   php artisan storage:link
-   ```
-2. Set up environment variables in the `.env` file
-3. Configure database connection in the `.env` file
-4. Run `composer install` to install dependencies
-5. Generate application key by running:
-   ```
-   php artisan key:generate
-   ```
-6. Serve the application by executing:
-   ```
-   php artisan serve
-   ```
-
-### Database Import Instructions
-To import the database (siakipk.sql), follow these steps:
-1. Ensure foreign key checks are disabled before importing the database.
-2. Import the siakipk.sql file into your database management system.
-3. Enable foreign key checks after the import process is completed.
-
 **Preview**
 
 **Halaman Login**
